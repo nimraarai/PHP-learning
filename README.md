@@ -1,4 +1,3 @@
-Welcome to the PHP-Learning wiki!
 > I am **Nimra Batool** and here we are going to learn **PHP Language basically a server side language**.
 This is a tutorial for the learning of PHP language--- a server side language in which you can learn PHP language  from scratch. 
 
